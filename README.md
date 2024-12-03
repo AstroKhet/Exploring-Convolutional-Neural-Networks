@@ -6,11 +6,11 @@ Do read the paper "Exploring_CNNs_for_Image_Classification.pdf" for the scope of
 ## Paper Preview
 
 ### Abstract
-![Abstract](Preview/rs1.png)
+![Abstract](Preview/1.png)
 
 ### Confusion Matrix
-![Confusion Matrix](Preview/rs2.png)
+![Confusion Matrix](Preview/2.png)
 
 ### Results
-![Results](Preview/rs3.png)
+![Results](Preview/3.png)
 
